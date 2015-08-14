@@ -2,7 +2,7 @@
 
 > "The best things in life are forts" - Mahatma Gandhi
 
-![FORT!!!](fort.png)
+![FORT!!!](img/fort.png)
 
 ### Building
 
