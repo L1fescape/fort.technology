@@ -1,3 +1,13 @@
+var cornify = require('cornified');
+
+cornify.add();
+cornify.add();
+cornify.add();
+cornify.add();
+cornify.add();
+cornify.add();
+cornify.add();
+
 // make the horse dance
 var img = document.getElementById('gif')
 var step = Math.PI * .04

@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/akenn/fort.technology",
   "dependencies": {
-    "babel": "^5.8.21"
+    "babel": "^5.8.21",
+    "cornified": "^1.0.1"
   },
   "devDependencies": {
     "babelify": "^6.1.3",
