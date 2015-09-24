@@ -1,8 +1,7 @@
 var cornify = require('cornified');
 
-document.addEventListener('click', function() {
-  cornify.add();
-});
+document.addEventListener('click', cornify.add);
+document.addEventListener('touchend', cornify.add);
 
 // make the horse dance
 var img = document.getElementById('gif')
