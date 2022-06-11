@@ -2,27 +2,26 @@
   "name": "fort.technology",
   "version": "1.0.0",
   "description": "When in doubt, build a fort",
-  "main": "index.js",
+  "main": "js/index.js",
   "scripts": {
     "build": "./node_modules/browserify/bin/cmd.js js/index.js -t babelify --outfile js/bundle.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/akenn/fort.technology.git"
+    "url": "https://github.com/l1fescape/fort.technology.git"
   },
   "keywords": [
     "fort",
     "technology"
   ],
-  "author": "Andrew Kennedy <andrew@akenn.org>",
+  "author": "Andrew Kennedy and friends",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/akenn/fort.technology/issues"
+    "url": "https://github.com/l1fescape/fort.technology/issues"
   },
-  "homepage": "https://github.com/akenn/fort.technology",
+  "homepage": "https://github.com/l1fescape/fort.technology",
   "dependencies": {
-    "babel": "^5.8.21",
-    "cornified": "^1.0.1"
+    "babel": "^5.8.21"
   },
   "devDependencies": {
     "babelify": "^6.1.3",
